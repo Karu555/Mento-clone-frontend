@@ -1,0 +1,55 @@
+body{
+    background: url("https://www.mento.co.in/assets/all-topics-bg-c70ac…6cc16261ddb6d5b08a7f43fa4dc0e78f5488466e78514.png") no-repeat center center fixed;
+  }
+  .up{
+   /* border: 1px solid red; */
+   font-size: 27px;
+   margin-top: 100px;
+   margin-bottom: -140px;
+   width: 200px;
+   margin-left: 465px;
+   color: whitesmoke;
+  }
+  .up1{
+    color: #f97316;
+  }
+  .container-div {
+    display: flex;
+    justify-content: space-between;
+    margin-top:100px;
+      /* border: 1px solid red; */
+      margin-left: 240px;
+      margin-right: 100px;
+  }
+  .left-div {
+    /* border: 1px solid blue; */
+    width: 20%;
+    /* height: 600px; */
+    color: whitesmoke;
+    text-align: left;
+  }
+  .left-div h5{
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+  .right-div {
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    gap: 60px;
+    /* border: 1px solid green; */
+    width: 80%;
+    color: whitesmoke;
+    margin-top: 50px;
+    /* height: 600px; */
+  }
+  
+  .image-div {
+    /* border: 1px solid grey; */
+
+    height: 300px;
+  }
+  h5{
+    cursor: pointer;
+  }

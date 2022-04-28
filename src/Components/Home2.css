@@ -1,0 +1,21 @@
+.homemid{
+    margin-top: 500px;
+    color: whitesmoke;
+}
+.home2 {
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    
+    margin-left: 200px;
+    /* border-color:1px solid red; */
+}
+.home21{
+    /* border: 1px solid red; */
+   height: 350px;
+    width:500px;
+    margin: 15px;
+    color: whitesmoke;
+    
+}
+
+/* height={"60%"} width = {"100%"} */
