@@ -10,7 +10,7 @@ export const About = () => {
           like doing?What is your true <br /> 
           calling?
           <br /><br />
-        </div>
+        </div> h1
         <div className="about13" >
           We often end up in careers or industries because we are either confused or clueless about <br /> what we want to do in life. Also, we don't actually have much information about <br /> the numerous career options available to us.
           <br />
