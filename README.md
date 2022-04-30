@@ -12,7 +12,7 @@ Mento is an online alternative platform where India’s best industry experts te
 
 ## Useful Links :
 - **Github repo link :  https://github.com/Karu555/Mento-clone-frontend**
-- **Deployment link :  mento-clone-frontend.vercel.app**
+- **Deployment link :  https://mento-clone-frontend.vercel.app/**
 
 
 ## Creators 🤝🏻 ##
