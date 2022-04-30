@@ -15,6 +15,6 @@ Mento is an online alternative platform where India’s best industry experts te
 - **Deployment link :  https://mento-clone-frontend.vercel.app/**
 
 
-## Creator ##
+## LinkedIn ##
 
 - [Karunesh Ranjan](linkedin.com/in/karunesh-ranjan-6515211a0)
