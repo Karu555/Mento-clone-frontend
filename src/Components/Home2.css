@@ -1,150 +1,21 @@
-
-body{
-  
-    color:whitesmoke;
-    
-}
-.outer{
+.homemid{
     margin-top: 500px;
-    background-color: #1a1d24 ;
     color: whitesmoke;
 }
-.outer-container{
-  /* border:2px solid red; */
-  /* background-color: white; */
-  background-color: #1a1d24 ;
-  display: grid;
-  row-gap: 20px;
-  column-gap: 10px;
-  grid-template-rows: 550px ;
-  grid-template-columns:470px 470px 470px;
-  justify-content: center;
-
-
-}
-
-.inner-container{
-    margin: 50px 10px 10px 20px ;
-    /* border:1px solid blue; */
-   background-color: white;
-    vertical-align: auto;
-    border-radius: 20px;
-   
-}
-.img-div{
-  /* border: 1px solid red; */
-  height:300px;
-  margin-top: 0px;
-  border-radius: 10px 10px 0 0; 
-   position: relative;
-  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
-  
-}
-.main-img{
-    height:100%;
-    width:100%;
-    margin-top: 0px;
-    border-radius: 10px 10px 0 0; 
+.home2 {
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
     
+    margin-left: 200px;
+    /* border-color:1px solid red; */
 }
-
-.content-div{
-   height:250;
-   /* border: 2px solid green; */
-   background-color: white !important;
-   color: black;
-   padding: auto;
-   border-radius:15px;
-   margin-top: 30px;
-  font-weight: 600;
-  margin-left: 20px;
-  margin-bottom:20px;
-
-}
-.upper-title{
-    /* border:1px solid green; */
-    text-align: left;
-    padding-left:0px;
-    font-size: 24px; 
-    /* border:1px solid rgb(247, 248, 247); */
-    margin-bottom: 30px;
-}
-.designation{
-    background-color: white;
-}
-.bottom-div{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: left;
-    background-color: white;
-    width: 410px;
-    /* border:1px solid red; */
-}
-.left-div{
-    /* border:1px solid red; */
-    height:50px;
-    width:30px;
-    margin-top: 10px;
-    margin-left: -15px;
-    background-color: white;
-}
-.sub-img{
-    height:100%;
-    width:60%;
-    border-radius: 50%;
-    margin-top: 0px;
-    margin-left: 10px;
-    /* border:1px solid red */
-    
-}
-.name-div{
-    /* border:1px solid red; */
-   text-align: left; 
-    margin-left: 0px;
-    background-color: white;
-}
-.dark{
-   
-    font-weight: 700;
-    font-size: 20px;
-    margin-top: 10px;
-    margin-left:-10px;
-    background-color: white;
-  
-}
-.light{
-    font-weight: 400;
-    font-size: 15px;
-    margin-top: 1px;
-    margin-left:-10px;
-   text-align: left;
-    color:rgb(158, 151, 151);
-    background-color: white;
-    
-}
-.right-div{
-  background-color: white;
-  /* border: 1px solid red; */
-  margin-left: 300px;
-  width: 100px !important;
-  margin-top: -45px !important;
- 
-}
-.number{
-    margin-left: 50px;
-    text-align: center;
-    font-size: 20px;
-    margin-top: -5px;
-    color: black;
-    background-color: white;
-    
-}
-.vid{
-    margin-left: -80px;
-    margin-top: 20px;
-    width: 100px;
-    color:rgb(158, 151, 151);
-    font-weight: 400;
-    background-color: white;
+.home21{
     /* border: 1px solid red; */
+   height: 350px;
+    width:500px;
+    margin: 15px;
+    color: whitesmoke;
+    
 }
+
+/* height={"60%"} width = {"100%"} */
